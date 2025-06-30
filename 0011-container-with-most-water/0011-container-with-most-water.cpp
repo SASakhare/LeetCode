@@ -16,17 +16,9 @@ public:
                 totalWater=water_amt;
             }
             
-            if(height[low]<height[high])
-            {
+            if (height[low] < height[high]) {
                 low++;
-            }else if(height[low]>height[high])
-            {
-                high--;
-            }else if( low < n-1 && high > 0 && height[low+1] < height[high-1])
-            {
-                low++;
-            }else
-            {
+            } else {
                 high--;
             }
 
