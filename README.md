@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
