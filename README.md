@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/SASakhare/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1310-watering-plants](https://github.com/SASakhare/LeetCode/tree/master/1310-watering-plants) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SASakhare/LeetCode/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [1310-watering-plants](https://github.com/SASakhare/LeetCode/tree/master/1310-watering-plants) |
 <!---LeetCode Topics End-->
