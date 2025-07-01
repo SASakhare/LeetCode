@@ -52,6 +52,7 @@
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SASakhare/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SASakhare/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Simulation
 |  |
@@ -79,6 +81,7 @@
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SASakhare/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3617-find-the-original-typed-string-i](https://github.com/SASakhare/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
