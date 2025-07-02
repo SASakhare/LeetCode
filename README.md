@@ -56,6 +56,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SASakhare/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SASakhare/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3617-find-the-original-typed-string-i](https://github.com/SASakhare/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
