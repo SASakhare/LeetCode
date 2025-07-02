@@ -85,6 +85,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3617-find-the-original-typed-string-i](https://github.com/SASakhare/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
