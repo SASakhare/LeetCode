@@ -15,6 +15,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1310-watering-plants](https://github.com/SASakhare/LeetCode/tree/master/1310-watering-plants) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SASakhare/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SASakhare/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3617-find-the-original-typed-string-i](https://github.com/SASakhare/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -110,6 +112,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
