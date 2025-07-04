@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/SASakhare/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SASakhare/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/SASakhare/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1310-watering-plants](https://github.com/SASakhare/LeetCode/tree/master/1310-watering-plants) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -118,6 +119,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SASakhare/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/SASakhare/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
