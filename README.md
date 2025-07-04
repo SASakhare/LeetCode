@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1310-watering-plants](https://github.com/SASakhare/LeetCode/tree/master/1310-watering-plants) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SASakhare/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
@@ -116,6 +118,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/SASakhare/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
