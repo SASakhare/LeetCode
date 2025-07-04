@@ -16,13 +16,11 @@ public:
             preProd.push_back(0);
             ind=n-1;
 
-        }else if(preProd.size()==0){
+        }else if(preProd.size()==0 || preProd.back()==0){
             preProd.push_back(num);
             
-        } else if(preProd.back()==0)
-        {
-            preProd.push_back(num);
-        }else
+        }
+        else
         {
             preProd.push_back(num*preProd.back());
         }
