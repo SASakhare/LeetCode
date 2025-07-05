@@ -12,21 +12,23 @@ public:
         }
 
         // 
-        int sum=0;
-        for(auto it :mp)
-        {
-            sum+=it.second;
-            mp[it.first]=sum;
-        }
+        // int sum=0;
+        // for(auto it :mp)
+        // {
+        //     sum+=it.second;
+        //     mp[it.first]=sum;
+        // }
 
         // 
 
         int minPoint=INT_MAX;
         int max=0;
         int res=0;
+        int sum=0;
         for(auto & [point,cover]:mp)
         {
-            if(cover==0)
+            sum+=cover;
+            if(sum==0)
             {
                 res+=point-minPoint;
                 minPoint=INT_MAX;
