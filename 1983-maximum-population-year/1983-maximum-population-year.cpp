@@ -15,26 +15,44 @@ public:
             mp[logs[i][1]]-=1;
         }
 
-        int sum=0;
-        for(auto it:mp)
+        // int sum=0;
+        // for(auto it:mp)
+        // {
+        //     sum=sum+it.second;
+        //     mp[it.first]=sum;
+        // }
+
+        // // find the year which has max population :
+
+        // int year=3000;
+        // int pop=0;
+
+        // for(auto it :mp)
+        // {
+        //     if(it.second >pop )
+        //     {
+        //         year=it.first;
+        //         pop=it.second;
+        //     }
+        // }
+
+        // return year;
+
+
+        int maxPop=0;
+        int currPop=0;
+        int year=0;
+
+        for(auto& [y,delta] : mp)
         {
-            sum=sum+it.second;
-            mp[it.first]=sum;
-        }
-
-        // find the year which has max population :
-
-        int year=3000;
-        int pop=0;
-
-        for(auto it :mp)
-        {
-            if(it.second >pop )
+            currPop+=delta;
+            if(currPop>maxPop)
             {
-                year=it.first;
-                pop=it.second;
+                maxPop=currPop;
+                year=y;
             }
         }
+
 
         return year;
     }
