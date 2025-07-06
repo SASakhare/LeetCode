@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/SASakhare/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
 | [1310-watering-plants](https://github.com/SASakhare/LeetCode/tree/master/1310-watering-plants) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
@@ -175,4 +178,12 @@
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
