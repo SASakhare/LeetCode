@@ -18,6 +18,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SASakhare/LeetCode/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## Sliding Window
 |  |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
