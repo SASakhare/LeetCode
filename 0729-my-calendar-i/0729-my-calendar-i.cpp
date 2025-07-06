@@ -39,6 +39,9 @@ public:
                     {
                         mp[startTime]-=1;
                         mp[endTime]+=1;
+
+                        if (mp[startTime] == 0) mp.erase(startTime);
+                        if (mp[endTime] == 0) mp.erase(endTime);                        
                         return false;
                     }
                     // temp[time]=sum;
