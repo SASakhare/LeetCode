@@ -25,6 +25,7 @@
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -113,6 +114,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SASakhare/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/SASakhare/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -149,6 +151,7 @@
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/SASakhare/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
