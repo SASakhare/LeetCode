@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/SASakhare/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SASakhare/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SASakhare/LeetCode/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SASakhare/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/SASakhare/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SASakhare/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -222,5 +224,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
