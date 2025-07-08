@@ -51,7 +51,7 @@ public:
 
         // sort diagonal which start from the row =0
 
-        for(int col=0;col<n;col++)
+        for(int col=1;col<n;col++)
         {
             sortDiagonal(mat,0,col);
         }
