@@ -27,6 +27,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1972-rotating-the-box](https://github.com/SASakhare/LeetCode/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -93,6 +94,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SASakhare/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1972-rotating-the-box](https://github.com/SASakhare/LeetCode/tree/master/1972-rotating-the-box) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -240,6 +242,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1386-shift-2d-grid](https://github.com/SASakhare/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1972-rotating-the-box](https://github.com/SASakhare/LeetCode/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
