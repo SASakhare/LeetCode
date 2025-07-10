@@ -38,6 +38,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -122,6 +123,7 @@
 | [1386-shift-2d-grid](https://github.com/SASakhare/LeetCode/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -149,6 +151,7 @@
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SASakhare/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
@@ -238,5 +241,6 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1386-shift-2d-grid](https://github.com/SASakhare/LeetCode/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 <!---LeetCode Topics End-->
