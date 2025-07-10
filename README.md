@@ -37,6 +37,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,4 +235,5 @@
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 <!---LeetCode Topics End-->
