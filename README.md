@@ -46,6 +46,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3398-make-a-square-with-the-same-color](https://github.com/SASakhare/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [3398-make-a-square-with-the-same-color](https://github.com/SASakhare/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,4 +262,5 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SASakhare/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3398-make-a-square-with-the-same-color](https://github.com/SASakhare/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
