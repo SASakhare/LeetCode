@@ -19,6 +19,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SASakhare/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0880-rectangle-area-ii](https://github.com/SASakhare/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SASakhare/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -248,6 +250,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/SASakhare/LeetCode/tree/master/0289-game-of-life) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1342-queens-that-can-attack-the-king](https://github.com/SASakhare/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1386-shift-2d-grid](https://github.com/SASakhare/LeetCode/tree/master/1386-shift-2d-grid) |
