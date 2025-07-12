@@ -28,6 +28,7 @@
 | [1386-shift-2d-grid](https://github.com/SASakhare/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1572-subrectangle-queries](https://github.com/SASakhare/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -213,6 +214,7 @@
 | [0731-my-calendar-ii](https://github.com/SASakhare/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/SASakhare/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1572-subrectangle-queries](https://github.com/SASakhare/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
@@ -256,6 +258,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1342-queens-that-can-attack-the-king](https://github.com/SASakhare/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1386-shift-2d-grid](https://github.com/SASakhare/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1572-subrectangle-queries](https://github.com/SASakhare/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/SASakhare/LeetCode/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
