@@ -20,6 +20,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SASakhare/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0810-valid-tic-tac-toe-state](https://github.com/SASakhare/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0880-rectangle-area-ii](https://github.com/SASakhare/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
@@ -262,6 +263,7 @@
 | [0036-valid-sudoku](https://github.com/SASakhare/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/SASakhare/LeetCode/tree/master/0289-game-of-life) |
+| [0810-valid-tic-tac-toe-state](https://github.com/SASakhare/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1342-queens-that-can-attack-the-king](https://github.com/SASakhare/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
