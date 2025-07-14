@@ -70,6 +70,7 @@
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/SASakhare/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SASakhare/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/SASakhare/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/SASakhare/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
