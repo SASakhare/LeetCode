@@ -4,39 +4,44 @@ public:
 
         int n = word.size();
 
-        map<char, pair<bool, int>>
-            mp; // isCapaticalAccured,countAfter the Capital for the
+        // map<char, pair<bool, int>> mp; // isCapaticalAccured,countAfter the Capital for the
                 // corresponding the charcter char:
+        vector<vector<int>>mp(26,vector<int>(3,-1));// only 26 number need , -1,0,0 : isCharpresntInStr,isCapitalAccured,countAfter the Capital Accured
 
         for (int i = 0; i < n; i++) {
             char ch = word[i];
             // smaller letter
             if (ch >= 'a' && ch <= 'z') {
-                if (mp.find(ch) != mp.end() && mp[ch].first == true) {
-                    mp[ch].second += 1;
+                if (mp[ch-'a'][0]!=-1 && mp[ch-'a'][1] == 1) {
+                    mp[ch-'a'][2] += 1;
                 } else {
-                    mp[ch] = make_pair(false, 0);
+                    // mp[ch] = make_pair(false, 0);
+                    mp[ch-'a'][0]=1;
+                    mp[ch-'a'][1]=0;
+                    mp[ch-'a'][2]=0;
                 }
 
             } else {
                 // capital letter
 
-                if(mp.find(ch+32)!=mp.end())
-                    mp[ch + ('a' - 'A')].first=true;
+                if(mp[ch - 'A' ][0]==1)
+                    mp[ch - 'A'][1]=1;
                 else
-                    mp[ch + ('a' - 'A')] = make_pair(true, 1);
+                {
+                    mp[ch - 'A'][0]=1;
+                    mp[ch - 'A'][1]=1;
+                    mp[ch - 'A'][2]=1;
+                }
             }
         }
 
         // iteration for finding the special char :
-        int cnt = 0;
+        int cnt = 0;    
 
-        for (auto it : mp) {
-            char ch = it.first;
-            auto p = it.second;
-
-            if (p.first==true && p.second == 0) {
-                cout<<ch<<' ';
+        for(int i=0;i<26;i++)
+        {
+            if(mp[i][0]==1 && mp[i][1]==1 && mp[i][2]==0)
+            {
                 cnt++;
             }
         }
