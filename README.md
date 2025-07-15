@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/SASakhare/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SASakhare/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/SASakhare/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/SASakhare/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SASakhare/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@
 | [0001-two-sum](https://github.com/SASakhare/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SASakhare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/SASakhare/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/SASakhare/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/SASakhare/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
