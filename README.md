@@ -45,6 +45,7 @@
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SASakhare/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SASakhare/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -71,6 +72,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1526-html-entity-parser](https://github.com/SASakhare/LeetCode/tree/master/1526-html-entity-parser) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -100,6 +102,7 @@
 | [0229-majority-element-ii](https://github.com/SASakhare/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Two Pointers
 |  |
