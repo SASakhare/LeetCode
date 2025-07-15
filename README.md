@@ -185,6 +185,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SASakhare/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3396-valid-word](https://github.com/SASakhare/LeetCode/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SASakhare/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/SASakhare/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
