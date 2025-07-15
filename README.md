@@ -67,6 +67,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1526-html-entity-parser](https://github.com/SASakhare/LeetCode/tree/master/1526-html-entity-parser) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -165,6 +166,7 @@
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SASakhare/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1526-html-entity-parser](https://github.com/SASakhare/LeetCode/tree/master/1526-html-entity-parser) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SASakhare/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
