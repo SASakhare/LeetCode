@@ -10,9 +10,9 @@ public:
 
         // iterating to the word2 :
 
-        for(int i=0;i<m;i++)
+        for(auto word:words2)
         {
-            string word=words2[i];
+            // string word=words2[i];
             vector<int>temp(26,0);
             for(char ch:word)
             {
@@ -26,9 +26,9 @@ public:
 
         // iterating through the word1
 
-        for(int i=0;i<n;i++)
+        for(auto word :words1)
         {
-            string word=words1[i];
+            // string word=words1[i];
             vector<int>temp(26,0);
             for(char ch:word)
             {
