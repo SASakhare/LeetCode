@@ -58,6 +58,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SASakhare/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SASakhare/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/SASakhare/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -82,6 +83,7 @@
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SASakhare/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SASakhare/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -268,6 +270,7 @@
 | ------- |
 | [2080-check-if-move-is-legal](https://github.com/SASakhare/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SASakhare/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3398-make-a-square-with-the-same-color](https://github.com/SASakhare/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Heap (Priority Queue)
 |  |
