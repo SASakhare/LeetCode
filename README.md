@@ -59,6 +59,7 @@
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SASakhare/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/SASakhare/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SASakhare/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -79,6 +80,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SASakhare/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
