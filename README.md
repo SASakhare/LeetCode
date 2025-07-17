@@ -49,6 +49,7 @@
 | [2080-check-if-move-is-legal](https://github.com/SASakhare/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2211-k-radius-subarray-averages](https://github.com/SASakhare/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SASakhare/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -105,6 +106,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SASakhare/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SASakhare/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SASakhare/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2211-k-radius-subarray-averages](https://github.com/SASakhare/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
