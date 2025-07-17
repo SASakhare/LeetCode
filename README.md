@@ -83,6 +83,7 @@
 | [0952-word-subsets](https://github.com/SASakhare/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SASakhare/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1526-html-entity-parser](https://github.com/SASakhare/LeetCode/tree/master/1526-html-entity-parser) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SASakhare/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -199,6 +200,7 @@
 | [0929-groups-of-special-equivalent-strings](https://github.com/SASakhare/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/SASakhare/LeetCode/tree/master/0952-word-subsets) |
 | [1526-html-entity-parser](https://github.com/SASakhare/LeetCode/tree/master/1526-html-entity-parser) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SASakhare/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SASakhare/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -259,6 +261,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SASakhare/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -334,4 +337,12 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SASakhare/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/SASakhare/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SASakhare/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
