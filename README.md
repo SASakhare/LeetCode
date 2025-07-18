@@ -85,6 +85,7 @@
 | [0929-groups-of-special-equivalent-strings](https://github.com/SASakhare/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/SASakhare/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SASakhare/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SASakhare/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1526-html-entity-parser](https://github.com/SASakhare/LeetCode/tree/master/1526-html-entity-parser) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SASakhare/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -103,6 +104,7 @@
 | [0567-permutation-in-string](https://github.com/SASakhare/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SASakhare/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SASakhare/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SASakhare/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SASakhare/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SASakhare/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -206,6 +208,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/SASakhare/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/SASakhare/LeetCode/tree/master/0952-word-subsets) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SASakhare/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1526-html-entity-parser](https://github.com/SASakhare/LeetCode/tree/master/1526-html-entity-parser) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SASakhare/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
