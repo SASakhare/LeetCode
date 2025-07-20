@@ -28,6 +28,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0880-rectangle-area-ii](https://github.com/SASakhare/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/SASakhare/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0940-fruit-into-baskets](https://github.com/SASakhare/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/SASakhare/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SASakhare/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/SASakhare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -86,6 +87,7 @@
 | [0567-permutation-in-string](https://github.com/SASakhare/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/SASakhare/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0940-fruit-into-baskets](https://github.com/SASakhare/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/SASakhare/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SASakhare/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SASakhare/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -108,6 +110,7 @@
 | [0567-permutation-in-string](https://github.com/SASakhare/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SASakhare/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/SASakhare/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/SASakhare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SASakhare/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SASakhare/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
