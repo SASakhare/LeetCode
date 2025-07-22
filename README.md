@@ -216,6 +216,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SASakhare/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/SASakhare/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SASakhare/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SASakhare/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SASakhare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/SASakhare/LeetCode/tree/master/0443-string-compression) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SASakhare/LeetCode/tree/master/0012-integer-to-roman) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -262,6 +264,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -299,6 +302,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SASakhare/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -392,4 +396,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
