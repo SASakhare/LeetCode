@@ -1,4 +1,7 @@
 class Solution {
+    private :
+    unordered_map<string,vector<int>>dp;
+
 public:
     int operation(int n1,int n2,char op)
     {
@@ -17,6 +20,10 @@ public:
 
         vector<int>res;
         int n=expression.size();
+        if(dp.find(expression)!=dp.end())
+        {
+            return dp[expression];
+        }
         if(n==1)
         {
             return {expression[0]-'0'};
@@ -46,6 +53,6 @@ public:
 
         }
 
-        return res;        
+        return dp[expression]=res;        
     }
 };
