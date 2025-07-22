@@ -249,6 +249,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SASakhare/LeetCode/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/SASakhare/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/SASakhare/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
@@ -305,6 +306,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/SASakhare/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/SASakhare/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
