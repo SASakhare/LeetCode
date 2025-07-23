@@ -21,6 +21,7 @@
 | [0391-perfect-rectangle](https://github.com/SASakhare/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SASakhare/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SASakhare/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -270,6 +271,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
@@ -406,4 +408,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
