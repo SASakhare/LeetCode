@@ -53,6 +53,7 @@
 | [1972-rotating-the-box](https://github.com/SASakhare/LeetCode/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2080-check-if-move-is-legal](https://github.com/SASakhare/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SASakhare/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -273,6 +274,7 @@
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SASakhare/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -413,4 +416,9 @@
 | ------- |
 | [0077-combinations](https://github.com/SASakhare/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+## Bitmask
+|  |
+| ------- |
+| [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
