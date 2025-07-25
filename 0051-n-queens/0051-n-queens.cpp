@@ -48,7 +48,7 @@ class Solution {
         return true;
     }
 
-    void fun(int col,vector<string>&board,vector<vector<string>>&res,int n)
+    void fun(int col,vector<string>&board,vector<vector<string>>&res,int n,vector<int>&leftCol,vector<int>&leftUpperDiagonal,vector<int>&leftLowerDiagonal)
     {
         // base case :
         if(col>=board.size())
@@ -62,10 +62,19 @@ class Solution {
         // for perticular col trying all possible row's
         for(int i=0;i<n;i++)
         {
-            if(isPlaceValid(i,col,board,n))
+            // if(isPlaceValid(i,col,board,n))
+            if(leftCol[i]==0 && leftUpperDiagonal[(n-1)+(col-i)]==0 && leftLowerDiagonal[i+col]==0)
             {
                 board[i][col]='Q';
-                fun(col+1,board,res,n);
+                leftCol[i]=1;
+                leftUpperDiagonal[(n-1)+(col-i)]=1;
+                leftLowerDiagonal[i+col]=1;
+
+                fun(col+1,board,res,n,leftCol,leftUpperDiagonal,leftLowerDiagonal);
+
+                leftCol[i]=0;
+                leftUpperDiagonal[(n-1)+(col-i)]=0;
+                leftLowerDiagonal[i+col]=0;
                 board[i][col]='.';
             }
         }
@@ -77,6 +86,9 @@ public:
 
         vector<string>board(n);
         string temp(n,'.');
+        vector<int>leftCol(n,0);
+        vector<int>leftUpperDiagonal((2*n-1),0);// formula : (n-1)+(col-row);
+        vector<int>leftLowerDiagonal((2*n-1),0);// formula :  col+row :
 
         for(int i=0;i<n;i++)
         {
@@ -86,7 +98,7 @@ public:
         // now 
         vector<vector<string>>res;
 
-        fun(0,board,res,n);
+        fun(0,board,res,n,leftCol,leftUpperDiagonal,leftLowerDiagonal);
         return res;
         
     }
