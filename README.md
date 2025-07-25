@@ -416,6 +416,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SASakhare/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/SASakhare/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SASakhare/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
