@@ -256,6 +256,7 @@
 | [0012-integer-to-roman](https://github.com/SASakhare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/SASakhare/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/SASakhare/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/SASakhare/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -307,6 +308,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SASakhare/LeetCode/tree/master/0231-power-of-two) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/SASakhare/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/SASakhare/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/SASakhare/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
