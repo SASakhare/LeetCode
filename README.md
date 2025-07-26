@@ -71,6 +71,7 @@
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -108,6 +109,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3034-points-that-intersect-with-cars](https://github.com/SASakhare/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/SASakhare/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SASakhare/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -147,6 +149,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SASakhare/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SASakhare/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -284,6 +288,7 @@
 | [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -433,6 +438,7 @@
 | [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bitmask
 |  |
 | ------- |
@@ -441,4 +447,8 @@
 |  |
 | ------- |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+## Combinatorics
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
