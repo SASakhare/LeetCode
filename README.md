@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/SASakhare/LeetCode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/SASakhare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SASakhare/LeetCode/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/SASakhare/LeetCode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/SASakhare/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SASakhare/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -308,6 +309,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/SASakhare/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/SASakhare/LeetCode/tree/master/0231-power-of-two) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SASakhare/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -423,6 +425,7 @@
 | [0051-n-queens](https://github.com/SASakhare/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SASakhare/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SASakhare/LeetCode/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/SASakhare/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
