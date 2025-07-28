@@ -455,6 +455,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Combinatorics
 |  |
@@ -464,4 +465,16 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SASakhare/LeetCode/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
