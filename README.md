@@ -458,6 +458,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Combinatorics
 |  |
@@ -472,6 +473,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SASakhare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -481,4 +483,5 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SASakhare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
