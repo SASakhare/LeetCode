@@ -56,22 +56,35 @@ public:
 
         verticalDriver(root,ds);
         // iterating throught the map :
-        int size=ds.size();// no of column  
-        vector<vector<int>>res(size);
-        int i=0;
+        // int size=ds.size();// no of column  
+        vector<vector<int>>res;
+        // int i=0;
+        // for(auto x:ds)
+        // {
+        //     // x.first --> column and x.second --> map<int,multiset<int>>
+        //     for(auto y:x.second)
+        //     {
+        //         //y.first --> column and y.second multiset :
+        //         for(auto z:y.second)
+        //         { 
+        //             // element of multiset :
+        //             res[i].push_back(z);
+        //         }
+        //     }
+        //     i++;
+        // }
+
+        
         for(auto x:ds)
         {
             // x.first --> column and x.second --> map<int,multiset<int>>
+            vector<int>temp;
             for(auto y:x.second)
             {
                 //y.first --> column and y.second multiset :
-                for(auto z:y.second)
-                { 
-                    // element of multiset :
-                    res[i].push_back(z);
-                }
+                temp.insert(temp.end(),y.second.begin(),y.second.end());
             }
-            i++;
+            res.push_back(temp);
         }
 
         return res;
