@@ -211,6 +211,7 @@
 | [0011-container-with-most-water](https://github.com/SASakhare/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -505,6 +506,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SASakhare/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -521,6 +523,7 @@
 | [0572-subtree-of-another-tree](https://github.com/SASakhare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SASakhare/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -542,6 +545,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SASakhare/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## String Matching
 |  |
@@ -553,6 +557,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -564,4 +569,5 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SASakhare/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
