@@ -245,6 +245,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SASakhare/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SASakhare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/SASakhare/LeetCode/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0556-next-greater-element-iii](https://github.com/SASakhare/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SASakhare/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SASakhare/LeetCode/tree/master/0567-permutation-in-string) |
@@ -352,6 +353,7 @@
 ## Design
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SASakhare/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/SASakhare/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -471,6 +473,7 @@
 | [0101-symmetric-tree](https://github.com/SASakhare/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SASakhare/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -495,6 +498,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SASakhare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/SASakhare/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SASakhare/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SASakhare/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SASakhare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -512,6 +516,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SASakhare/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/SASakhare/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SASakhare/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SASakhare/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SASakhare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -530,6 +535,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SASakhare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/SASakhare/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SASakhare/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SASakhare/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SASakhare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -555,6 +561,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SASakhare/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
