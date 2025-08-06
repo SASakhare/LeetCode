@@ -497,6 +497,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SASakhare/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SASakhare/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SASakhare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SASakhare/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/SASakhare/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SASakhare/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -516,6 +517,7 @@
 | [0113-path-sum-ii](https://github.com/SASakhare/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SASakhare/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SASakhare/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SASakhare/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/SASakhare/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SASakhare/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -536,6 +538,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/SASakhare/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SASakhare/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SASakhare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SASakhare/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/SASakhare/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/SASakhare/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -566,6 +569,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SASakhare/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SASakhare/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
