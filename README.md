@@ -277,6 +277,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/SASakhare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/SASakhare/LeetCode/tree/master/0060-permutation-sequence) |
+| [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/SASakhare/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SASakhare/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -297,6 +298,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/SASakhare/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
@@ -490,6 +492,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/SASakhare/LeetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -533,6 +536,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/SASakhare/LeetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -572,6 +576,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SASakhare/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
