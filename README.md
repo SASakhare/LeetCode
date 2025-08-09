@@ -74,6 +74,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SASakhare/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2714-left-and-right-sum-differences](https://github.com/SASakhare/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -205,6 +206,7 @@
 | [0732-my-calendar-iii](https://github.com/SASakhare/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/SASakhare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -516,6 +518,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SASakhare/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -537,6 +540,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SASakhare/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -564,6 +568,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SASakhare/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -592,4 +597,5 @@
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
