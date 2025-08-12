@@ -72,6 +72,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SASakhare/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -160,6 +161,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Counting
 |  |
@@ -218,6 +220,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
@@ -383,6 +386,7 @@
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASakhare/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Segment Tree
 |  |
 | ------- |
