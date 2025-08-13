@@ -370,6 +370,7 @@
 | [0732-my-calendar-iii](https://github.com/SASakhare/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1572-subrectangle-queries](https://github.com/SASakhare/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1955-seat-reservation-manager](https://github.com/SASakhare/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
@@ -389,6 +390,7 @@
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASakhare/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1955-seat-reservation-manager](https://github.com/SASakhare/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Segment Tree
 |  |
