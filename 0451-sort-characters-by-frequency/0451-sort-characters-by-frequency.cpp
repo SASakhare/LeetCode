@@ -58,7 +58,7 @@ public:
         p.pop();
         for(int i=0;i<it.first;i++)
         {
-            res+=it.second;
+            res.push_back(it.second);
         }
     }
 
