@@ -59,6 +59,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/SASakhare/LeetCode/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SASakhare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -229,6 +230,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -404,6 +406,7 @@
 | [1304-longest-happy-string](https://github.com/SASakhare/LeetCode/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASakhare/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/SASakhare/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Segment Tree
