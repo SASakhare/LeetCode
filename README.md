@@ -519,6 +519,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -575,6 +576,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SASakhare/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -643,4 +645,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SASakhare/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
