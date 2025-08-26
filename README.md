@@ -516,6 +516,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SASakhare/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SASakhare/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0871-keys-and-rooms](https://github.com/SASakhare/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -573,6 +574,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/SASakhare/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SASakhare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0871-keys-and-rooms](https://github.com/SASakhare/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -652,5 +654,6 @@
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/SASakhare/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
