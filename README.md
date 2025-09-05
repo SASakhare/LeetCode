@@ -263,6 +263,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SASakhare/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SASakhare/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/SASakhare/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/SASakhare/LeetCode/tree/master/0139-word-break) |
@@ -323,6 +324,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SASakhare/LeetCode/tree/master/0224-basic-calculator) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
