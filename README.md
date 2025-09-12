@@ -45,6 +45,7 @@
 | [0940-fruit-into-baskets](https://github.com/SASakhare/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/SASakhare/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SASakhare/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/SASakhare/LeetCode/tree/master/1036-rotting-oranges) |
 | [1043-grid-illumination](https://github.com/SASakhare/LeetCode/tree/master/1043-grid-illumination) |
 | [1046-max-consecutive-ones-iii](https://github.com/SASakhare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/SASakhare/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
@@ -453,6 +454,7 @@
 | [0733-flood-fill](https://github.com/SASakhare/LeetCode/tree/master/0733-flood-fill) |
 | [0810-valid-tic-tac-toe-state](https://github.com/SASakhare/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1036-rotting-oranges](https://github.com/SASakhare/LeetCode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/SASakhare/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/SASakhare/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
@@ -527,6 +529,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/SASakhare/LeetCode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/SASakhare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Combinatorics
