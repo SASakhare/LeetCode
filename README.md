@@ -49,6 +49,7 @@
 | [1043-grid-illumination](https://github.com/SASakhare/LeetCode/tree/master/1043-grid-illumination) |
 | [1046-max-consecutive-ones-iii](https://github.com/SASakhare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/SASakhare/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SASakhare/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1310-watering-plants](https://github.com/SASakhare/LeetCode/tree/master/1310-watering-plants) |
@@ -457,6 +458,7 @@
 | [0810-valid-tic-tac-toe-state](https://github.com/SASakhare/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1036-rotting-oranges](https://github.com/SASakhare/LeetCode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SASakhare/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/SASakhare/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/SASakhare/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
@@ -533,6 +535,7 @@
 | [1007-numbers-with-same-consecutive-differences](https://github.com/SASakhare/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SASakhare/LeetCode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SASakhare/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/SASakhare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Combinatorics
