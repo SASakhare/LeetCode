@@ -341,6 +341,7 @@
 | [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SASakhare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
@@ -423,6 +424,7 @@
 | [1304-longest-happy-string](https://github.com/SASakhare/LeetCode/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SASakhare/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/SASakhare/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -675,6 +677,15 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/SASakhare/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SASakhare/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/SASakhare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+## Topological Sort
+|  |
+| ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Shortest Path
+|  |
+| ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
