@@ -312,6 +312,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/SASakhare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/SASakhare/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/SASakhare/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/SASakhare/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SASakhare/LeetCode/tree/master/0231-power-of-two) |
@@ -334,6 +335,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SASakhare/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/SASakhare/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -543,6 +545,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SASakhare/LeetCode/tree/master/0062-unique-paths) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Trie
 |  |
