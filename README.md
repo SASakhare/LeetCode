@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/SASakhare/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/SASakhare/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/SASakhare/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SASakhare/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -339,6 +340,7 @@
 | [0062-unique-paths](https://github.com/SASakhare/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/SASakhare/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/SASakhare/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/SASakhare/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SASakhare/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SASakhare/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SASakhare/LeetCode/tree/master/0486-predict-the-winner) |
