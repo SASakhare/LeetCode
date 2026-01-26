@@ -86,6 +86,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -254,6 +255,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -332,6 +334,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/SASakhare/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SASakhare/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SASakhare/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/SASakhare/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SASakhare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
