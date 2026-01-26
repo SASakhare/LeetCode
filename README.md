@@ -89,6 +89,7 @@
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2611-mice-and-cheese](https://github.com/SASakhare/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SASakhare/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SASakhare/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -186,6 +187,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2611-mice-and-cheese](https://github.com/SASakhare/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SASakhare/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Counting
@@ -257,6 +259,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2611-mice-and-cheese](https://github.com/SASakhare/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SASakhare/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
@@ -446,6 +449,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/SASakhare/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2611-mice-and-cheese](https://github.com/SASakhare/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SASakhare/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Segment Tree
 |  |
