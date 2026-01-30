@@ -80,6 +80,7 @@
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SASakhare/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SASakhare/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SASakhare/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SASakhare/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -184,6 +185,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/SASakhare/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SASakhare/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SASakhare/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -255,6 +257,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SASakhare/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1880-largest-merge-of-two-strings](https://github.com/SASakhare/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SASakhare/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
