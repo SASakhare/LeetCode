@@ -85,6 +85,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SASakhare/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SASakhare/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -190,6 +191,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SASakhare/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SASakhare/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/SASakhare/LeetCode/tree/master/2611-mice-and-cheese) |
@@ -231,6 +233,7 @@
 | [1972-rotating-the-box](https://github.com/SASakhare/LeetCode/tree/master/1972-rotating-the-box) |
 | [2128-reverse-prefix-of-word](https://github.com/SASakhare/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/SASakhare/LeetCode/tree/master/2228-watering-plants-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SASakhare/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/SASakhare/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SASakhare/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
@@ -264,6 +267,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SASakhare/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SASakhare/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -394,6 +398,7 @@
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SASakhare/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
@@ -460,6 +465,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/SASakhare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/SASakhare/LeetCode/tree/master/1955-seat-reservation-manager) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SASakhare/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2611-mice-and-cheese](https://github.com/SASakhare/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SASakhare/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
