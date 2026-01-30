@@ -85,6 +85,7 @@
 | [2388-replace-elements-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SASakhare/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -242,6 +243,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/SASakhare/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/SASakhare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SASakhare/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -260,6 +262,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SASakhare/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SASakhare/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/SASakhare/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SASakhare/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/SASakhare/LeetCode/tree/master/2611-mice-and-cheese) |
@@ -368,6 +371,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SASakhare/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/SASakhare/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SASakhare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -386,6 +390,7 @@
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/SASakhare/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/SASakhare/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2439-minimize-maximum-of-array](https://github.com/SASakhare/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2465-shifting-letters-ii](https://github.com/SASakhare/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/SASakhare/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/SASakhare/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
