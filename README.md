@@ -34,6 +34,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/SASakhare/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/SASakhare/LeetCode/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SASakhare/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/SASakhare/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SASakhare/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
@@ -127,6 +128,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/SASakhare/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/SASakhare/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SASakhare/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SASakhare/LeetCode/tree/master/0778-reorganize-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/SASakhare/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -180,6 +182,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SASakhare/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SASakhare/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SASakhare/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SASakhare/LeetCode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SASakhare/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0870-advantage-shuffle](https://github.com/SASakhare/LeetCode/tree/master/0870-advantage-shuffle) |
@@ -203,6 +206,7 @@
 | [0229-majority-element-ii](https://github.com/SASakhare/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SASakhare/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/SASakhare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SASakhare/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SASakhare/LeetCode/tree/master/0778-reorganize-string) |
 | [1983-maximum-population-year](https://github.com/SASakhare/LeetCode/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SASakhare/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -255,6 +259,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SASakhare/LeetCode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/SASakhare/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/SASakhare/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/SASakhare/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/SASakhare/LeetCode/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SASakhare/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -456,6 +461,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SASakhare/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/SASakhare/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SASakhare/LeetCode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SASakhare/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1184-car-pooling](https://github.com/SASakhare/LeetCode/tree/master/1184-car-pooling) |
