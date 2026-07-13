@@ -28,6 +28,7 @@
 | [0229-majority-element-ii](https://github.com/SASakhare/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SASakhare/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/SASakhare/LeetCode/tree/master/0289-game-of-life) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SASakhare/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0391-perfect-rectangle](https://github.com/SASakhare/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/SASakhare/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -247,6 +248,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SASakhare/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SASakhare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/SASakhare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SASakhare/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0713-subarray-product-less-than-k](https://github.com/SASakhare/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SASakhare/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -480,6 +482,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SASakhare/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SASakhare/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/SASakhare/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -487,6 +490,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SASakhare/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/SASakhare/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SASakhare/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/SASakhare/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -692,6 +696,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SASakhare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SASakhare/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SASakhare/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/SASakhare/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Linked List
@@ -740,4 +745,12 @@
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/SASakhare/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SASakhare/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SASakhare/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
